@@ -1,5 +1,6 @@
 ##### RaMMos7/README.md <h5>
 # **Miguel Ramos** <h1>
+![yoo](https://github.com/user-attachments/assets/2c697fcb-116c-4092-af05-b76bb06555e0)
 #### Estudante de TI-Software📚 <h4>
 #### Brasileiro - Alagoano 🚩 <h4>
 
