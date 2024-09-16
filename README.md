@@ -15,10 +15,6 @@ Estou buscando oportunidades de estágio para aplicar e expandir meus conhecimen
 - **TI-Software - SENAI**  
 - **Ciências da Computação - UNIMA** (Terceiro Período)
 
-## 📈 Projetos Recentes
-- [Projeto 1](link-do-repositorio) - Descrição breve do projeto, tecnologias usadas e seu papel no desenvolvimento.
-- [Projeto 2](link-do-repositorio) - Descrição breve do projeto, tecnologias usadas e seu papel no desenvolvimento.
-
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-F16529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white)
@@ -29,9 +25,5 @@ Estou buscando oportunidades de estágio para aplicar e expandir meus conhecimen
 
 ## 📊 Estatísticas
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaMMos7&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=false&theme=radical)
-
-## 🌟 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) - Conecte-se comigo para oportunidades e colaborações.
-- [Twitter](https://twitter.com/seu-twitter) - Siga-me para atualizações e insights sobre tecnologia.
 
 Obrigado por visitar meu perfil! 🚀
