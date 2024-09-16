@@ -7,6 +7,7 @@ Atualmente estou cursando **TI-Software no SENAI 💻** e no **terceiro período
 
 ## 🌐 Redes Sociais
 - [Instagram](https://www.instagram.com/rammos_mi?igsh=NDNwOTcxb2pod3Y0&utm_source=qr) 📷
+- [LinkedIn](https://www.linkedin.com/in/miguel-r-a24160274/) 💼
 
 ## 💼 Objetivos
 Estou buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em desenvolvimento de software e tecnologia. Estou especialmente interessado em aprender mais sobre [Tecnologia ou Área de Interesse] e colaborar com equipes dinâmicas.
