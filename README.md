@@ -6,7 +6,6 @@ $ ./display-profile.sh
        |    |                           **OS:** Arch Linux x86_64 (Simulado)
        | /\ |                           **Host:** PC Pessoal (Custom Build)
        |/  \|                           **Kernel:** 6.5.9-arch1-1 (Simulado)
-                                        **Uptime:** 4 horas, 20 minutos
        _    _                           **Packages:** 1024 (pacman)
       / \  / \                          **Shell:** bash 5.2.15
      / _ \/ _ \                         **Resolution:** 1920x1080
