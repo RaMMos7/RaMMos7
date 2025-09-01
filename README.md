@@ -1,4 +1,4 @@
-# Arquivo: miguelfetch.ps1
+**# Arquivo: miguelfetch.ps1
 
 # Função para escrever em cores
 function Write-Color($Text, $Color) {
@@ -35,3 +35,4 @@ Write-Color "Idiomas:" "Magenta"
 Write-Color " - Português: Nativo" "White"
 Write-Color " - Inglês: Intermediário (B2)" "White"
 Write-Color " - Espanhol: Básico (A2)" "White"
+**
