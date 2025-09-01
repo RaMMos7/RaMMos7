@@ -1,4 +1,4 @@
-$ miguel-fetch
+$ celefetch
 
           ,MMM.                     miguel@alagoas
           MMMMMM.                   -------------------------------------------
