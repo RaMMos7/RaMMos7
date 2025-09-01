@@ -1,19 +1,37 @@
-/////////////            **miguel@portfolio**
-           /////////////////          ------------------
-         [cite_start]///////       ///////        **Nome:** MIGUEL RAMOS DOS SANTOS [cite: 1]
-        //////   >_<   //////         **Título:** Estagiário/Técnico em TI | [cite_start]Suporte e Desenvolvimento [cite: 2]
-       [cite_start]/////////////////////          **Experiência:** Assistente Técnico na Polícia Rodoviária Federal (Atual) [cite: 15]
-      /////////////////////
-         |||||||||||||||              **Educação**
-            |||||||||                 - [cite_start]Ciências da Computação @ Anhanguera (Cursando) [cite: 8]
-                                      - [cite_start]Técnico em Informática @ SENAI (Cursando) [cite: 6]
+# Arquivo: miguelfetch.ps1
 
-                                      **Habilidades**
-                                      - [cite_start]**Linguagens:** Python [cite: 19][cite_start], SQL (MariaDB, MySQL) [cite: 20]
-                                      - [cite_start]**Ferramentas:** Git, Figma, Pacote Office [cite: 20]
-                                      - [cite_start]**Infra:** Redes TCP/IP, Manutenção de Hardware e Software [cite: 20]
+# Função para escrever em cores
+function Write-Color($Text, $Color) {
+    Write-Host $Text -ForegroundColor $Color
+}
 
-                                      **Idiomas**
-                                      - [cite_start]**Português:** Nativo [cite: 30]
-                                      - [cite_start]**Inglês:** Intermediário (B2) [cite: 31]
-                                      - [cite_start]**Espanhol:** Básico (A2) [cite: 32]
+# Banner ASCII colorido
+Write-Color "        ██████╗ ██╗    ██╗██╗███╗   ██╗██████╗  ██████╗ ███████╗" "Cyan"
+Write-Color "       ██╔═══██╗██║    ██║██║████╗  ██║██╔══██╗██╔═══██╗██╔════╝" "Cyan"
+Write-Color "       ██║   ██║██║ █╗ ██║██║██╔██╗ ██║██║  ██║██║   ██║███████╗" "Cyan"
+Write-Color "       ██║   ██║██║███╗██║██║██║╚██╗██║██║  ██║██║   ██║╚════██║" "Cyan"
+Write-Color "       ╚██████╔╝╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝███████║" "Cyan"
+Write-Color "        ╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚══════╝" "Cyan"
+Write-Host ""
+
+# Informações pessoais coloridas
+Write-Color "Nome: Miguel Ramos dos Santos" "Yellow"
+Write-Color "Título: Estagiário/Técnico em TI" "Green"
+Write-Color "Experiência: Assistente Técnico na PRF (Atual)" "Green"
+Write-Host ""
+
+Write-Color "Educação:" "Magenta"
+Write-Color " - Ciências da Computação – Anhanguera (Cursando)" "White"
+Write-Color " - Técnico em Informática – SENAI (Cursando)" "White"
+Write-Host ""
+
+Write-Color "Habilidades:" "Magenta"
+Write-Color " - Linguagens: Python, SQL (MariaDB, MySQL)" "White"
+Write-Color " - Ferramentas: Git, Figma, Pacote Office" "White"
+Write-Color " - Infraestrutura: Redes TCP/IP, Manutenção de Hardware e Software" "White"
+Write-Host ""
+
+Write-Color "Idiomas:" "Magenta"
+Write-Color " - Português: Nativo" "White"
+Write-Color " - Inglês: Intermediário (B2)" "White"
+Write-Color " - Espanhol: Básico (A2)" "White"
