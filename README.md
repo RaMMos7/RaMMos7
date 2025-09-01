@@ -1,28 +1,16 @@
-# Miguel Ramos 👋
+$ miguel-fetch
 
-## Sobre Mim
-**Estudante de TI-Software 📚**  
-**Brasileiro - Alagoano 🚩**  
-Atualmente estou cursando **TI-Software no SENAI 💻** e no **terceiro período de Ciências da Computação na UNIMA 🔗**. Estou em busca de estágio para ganhar experiência prática e contribuir com minhas habilidades.
-
-## 🌐 Redes Sociais
-- [Instagram](https://www.instagram.com/rammos_mi?igsh=NDNwOTcxb2pod3Y0&utm_source=qr) 📷
-- [LinkedIn](https://www.linkedin.com/in/miguel-r-a24160274/) 💼
-
-## 💼 Objetivos
-Estou buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em desenvolvimento de software e tecnologia. Estou especialmente interessado em aprender mais sobre [Tecnologia ou Área de Interesse] e colaborar com equipes dinâmicas.
-
-## 📚 Educação
-- **TI-Software - SENAI**  
-- **Ciências da Computação - UNIMA** (Terceiro Período)
-
-## 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-F16529?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white)
-
-## 📊 Estatísticas
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaMMos7&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=false&theme=radical)
-
-Obrigado por visitar meu perfil! 🚀
+          ,MMM.                     miguel@alagoas
+          MMMMMM.                   -------------------------------------------
+          `MMMMM                    
+           [cite_start]MMMMM                    **Área:** Desenvolvimento, Suporte e Redes [cite: 2, 3]
+           [cite_start]MMMMM                    **Linguagens:** Python [cite: 19][cite_start], Java [cite: 39][cite_start], SQL [cite: 20]
+           [cite_start]MMMMM                    **Ferramentas:** Git, Figma, Pacote Office [cite: 20]
+          [cite_start].MMMMM                    **Estudando:** Ciências da Computação & Técnico em Informática [cite: 6, 8]
+          [cite_start]MMMMMM'                   **Interesses:** Front-end, Infraestrutura de Redes[cite: 15], Automação
+          `MMM'
+                                    **Contato**
+                                    -----------
+                                    [cite_start]**Email:** miguelramosdosantos@gmail.com [cite: 34]
+                                    [cite_start]**LinkedIn:** /in/miguel-a24160274 [cite: 35]
+                                    [cite_start]**GitHub:** /RaMMos7 [cite: 36]
